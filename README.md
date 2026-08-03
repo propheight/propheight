@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer · .NET / Angular · Remote-ready (CST / UTC−6)</h3>
 
 <p align="center">
-6 years building and modernizing production web apps — currently based in France 🇫🇷, relocating soon to Querétaro, MX<br>
+6 years building and modernizing production web apps — currently based in France 🇫🇷, relocating soon to Querétaro, MX 🇲🇽<br>
 Comfortable across the full stack, from Azure pipelines to Angular components, with a background in cybersecurity.
 </p>
 
